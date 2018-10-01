@@ -1,0 +1,13 @@
+# tmp
+.DS_Store
+.tmp
+
+# lib
+node_modules
+package-lock.json
+
+# IDE
+.idea
+*.iml
+
+# testing
